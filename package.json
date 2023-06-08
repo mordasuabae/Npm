@@ -1,0 +1,14 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Displays a Google Map",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alarico",
+  "license": "ISC",
+  "dependencies": {
+    "google-maps": "^4.3.3"
+  }
+}
